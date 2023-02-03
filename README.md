@@ -1,9 +1,19 @@
 # Setting up OpenCart on Xneelo Shared Hosting South Africa
 
-[<img src="img/4.jpg" width="500"/>](img/4.jpg)
+[<img src="img/logo.png" width="500"/>](img/logo.png)
 
-* [Xneelo](https://xneelo.co.za "xneelo link")
-* [OpenCart](https://opencart.com "opencart link")
+---
+
+*Developed by C.A Torino, TECHRAD Radical Technology*
+* Links to TECHRAD ZA.
+    * [Website](https://www.techrad.co.za)
+    * [Tutorial website](https://tutorials.techrad.co.za)
+    * [Support website](https://support.techrad.co.za)
+    * [API](https://www.techrad.co.za/apisource/public/apps/fusio)
+    * [Xneelo](https://xneelo.co.za "xneelo link")
+    * [OpenCart](https://opencart.com "opencart link")
+
+[<img src="img/4.jpg" width="500"/>](img/4.jpg)
 
 _Feb 2023_
 
